@@ -1,3 +1,4 @@
 a = 10
 b = 12
-print(a+b) 
+c = 15
+print(a+b+c) 
